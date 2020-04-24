@@ -8,14 +8,14 @@ Members
 - Jeremiah Canty
 - Edward Park
 
-# Proposed Steps
+# Goals
 
 -	Setup and Configure Docker locally
 -	Create Flask scikit-learn app in Container
 -	Run deployment in a scalable and elastic platform
 -	Loadtest and verify auto-scale
 
-# Diagram and Steps
+# Steps
 
 1.	Create project: ML stock prediction model
 2.	Build and test
