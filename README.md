@@ -2,7 +2,7 @@
 
 # Building a containerized machine learning prediction model and deploy it in a scalable and elastic platform.
 
-Members
+## Members
 - Zach Serapin
 - Kabita Paul
 - Jeremiah Canty
@@ -14,6 +14,10 @@ Members
 -	Create Flask scikit-learn app in Container
 -	Run deployment in a scalable and elastic platform
 -	Loadtest and verify auto-scale
+
+## US Stocks Prediction model Colab
+
+https://github.com/epark21/stock/blob/master/stock_final_project.ipynb
 
 # Steps
 
