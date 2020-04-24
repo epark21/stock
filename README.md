@@ -33,3 +33,5 @@ https://github.com/epark21/stock/blob/master/stock_final_project.ipynb
 
 
 
+https://noahgift.github.io/cloud-data-analysis-at-scale/topics/docker-format-containers.html
+
