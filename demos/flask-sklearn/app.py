@@ -75,4 +75,4 @@ def predict():
 
 if __name__ == "__main__":
     clf = joblib.load("stock_final_project_prediction.joblib")
-    app.run(host='0.0.0.0', port=80, debug=True)
+    app.run(host='0.0.0.0', port=8080, debug=True)
