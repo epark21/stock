@@ -35,3 +35,8 @@ https://github.com/epark21/stock/blob/master/stock_final_project.ipynb
 
 https://noahgift.github.io/cloud-data-analysis-at-scale/topics/docker-format-containers.html
 
+# Architecture
+
+![Image](../master/images/workflow.png?raw=true)
+
+https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/
