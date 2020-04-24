@@ -2,10 +2,10 @@
 # This tags and uploads an image to Docker Hub
 
 #Assumes this is built
-#docker build --tag=flasksklearn .
+#docker build --tag=stock .
 
 
-dockerpath="noahgift/flasksklearn"
+dockerpath="epark2121/stock"
 
 # Authenticate & Tag
 echo "Docker ID and Image: $dockerpath"
