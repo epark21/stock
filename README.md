@@ -27,6 +27,9 @@ https://github.com/epark21/stock/blob/master/stock_final_project.ipynb
 4.	Pull it onto AWS Cloud 9
 5.	Predict via pulled Container
 
+# Docker Workflow
+
+![Image](../master/images/docker.png?raw=true)
 
 
 
