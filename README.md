@@ -15,7 +15,7 @@
 -	Run deployment in a scalable and elastic platform
 -	Loadtest and verify auto-scale
 
-## US Stocks Prediction model Colab
+## US Stocks Prediction Model Colab
 
 https://github.com/epark21/stock/blob/master/stock_final_project.ipynb
 
