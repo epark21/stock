@@ -40,3 +40,13 @@ https://noahgift.github.io/cloud-data-analysis-at-scale/topics/docker-format-con
 ![Image](../master/images/workflow1.png?raw=true)
 
 https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/
+
+# Locust Load Test
+
+This is the implementation of the Locust Load Test.  This is used to simulate simultaneous users.  The idea is that during a test, a swarm of locusts will attack your website.
+
+![Image](../master/images/locust main.png?raw=true)
+![Image](../master/images/locust stats.png?raw=true)
+![Image](../master/images/requests.png?raw=true)
+![Image](../master/images/response.png?raw=true)
+![Image](../master/images/users.png?raw=true)
