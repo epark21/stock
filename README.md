@@ -3,10 +3,11 @@
 # Building a containerized machine learning prediction model and deploy it in a scalable and elastic platform.
 
 ## Members
+- Edward Park
 - Zach Serapin
 - Kabita Paul
 - Jeremiah Canty
-- Edward Park
+
 
 # Goals
 
